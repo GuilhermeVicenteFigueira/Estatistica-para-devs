@@ -14,8 +14,7 @@ O objetivo principal é consolidar conceitos estatísticos e aplicar técnicas m
 | Pandas           | Manipulação, limpeza e análise de dados (DataFrames).             |
 | NumPy            | Operações matemáticas avançadas e arrays de alto desempenho.      |
 | Matplotlib       | Criação de gráficos e visualização estática de dados.             |
-| Jupyter Notebook | Ambiente interativo para experimentação,                          |
-|                  | documentação e Visualização de resultados.                        |
+| Jupyter Notebook | Ambiente interativo para experimentação, documentação e Visualização de resultados.                        |
 | pyenv            | Gerenciamento de múltiplas versões do Python.                     |
 | pipenv           | Gerenciamento de ambientes virtuais e dependências do projeto.    |
 
